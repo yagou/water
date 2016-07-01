@@ -1,6 +1,6 @@
 {
   "name": "Water",
   "tagline": "mysql数据库binlog的增量订阅&消费组件",
-  "body": "### Welcome to Water Pages.\r\nThis water page is mysql binlog subscribe&consume module\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://github.com/yagou/water) or [contact support](https://github.com/yagou/water) and we’ll help you sort it out.\r\n",
+  "body": "### Welcome to Water Pages.\r\nThis water is mysql binlog subscribe&consume module\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://github.com/yagou/water) or [contact support](https://github.com/yagou/water) and we’ll help you sort it out.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
